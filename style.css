@@ -139,10 +139,12 @@ a:hover {
 .flexpart .right {
     /* font-family: 'Dancing Script', cursive; */
     font-family: 'Inconsolata', monospace;
-    font-size: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.4rem;
     text-align: center;
     margin-right: 100px;
-    margin-top: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 
@@ -159,11 +161,11 @@ a:hover {
 }
 
 #education .flexpart .left i {
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
 #projects .flexpart .left i {
-    margin-top: 300px;
+    margin-top: 200px;
 }
 
 
